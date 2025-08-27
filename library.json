@@ -2,7 +2,7 @@
   {
     "title": "Shadow Slave",
     "coverImage": "shadow_slave.jpg",
-    "homepageURL": "https://ranobes.net/novels/1205249-shadow-slave-v741610.html",
+    "homepageURL": "https://lightnovelworld.org/novel/shadow-slave",
     "summary": "Sunny fighting a mirror rn",
     "checkForUpdates": true,
     "chapters": [
@@ -366,20 +366,20 @@
       {
         "title": "Chapter 2553: A Monster With Ten Thousand Heads",
         "isRead": true,
-        "url": "https://ranobes.net/shadow-slave-v741610-1205249/2967449.html",
+        "url": "https://lightnovelworld.org/novel/shadow-slave/chapter/2553/",
         "datePublished": "8/26/2025",
         "dateRead": "8/26/2025"
       },
       {
         "title": "Chapter 2554: Infohazard",
         "isRead": true,
-        "url": "https://ranobes.net/shadow-slave-v741610-1205249/2967450.html",
+        "url": "https://lightnovelworld.org/novel/shadow-slave/chapter/2554/",
         "datePublished": "8/26/2025",
         "dateRead": "8/26/2025"
       }
     ],
     "additionalInfo": {
-      "chapters_link": "https://ranobes.net/chapters/1205249/"
+      "chaptersLink": "https://lightnovelworld.org/novel/shadow-slave/chapters/?page=0"
     }
   },
   {
@@ -11358,6 +11358,13 @@
         "url": "https://demonicscans.org/chaptered.php?manga=11699&chapter=162",
         "datePublished": "8/19/2025",
         "dateRead": "8/20/2025"
+      },
+      {
+        "title": "Chapter 163",
+        "isRead": false,
+        "url": "https://demonicscans.org/chaptered.php?manga=11699&chapter=163",
+        "datePublished": "8/26/2025",
+        "dateRead": null
       }
     ]
   },
