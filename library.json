@@ -5,6 +5,9 @@
     "homepageURL": "https://lightnovelworld.org/novel/shadow-slave",
     "summary": "Sunny fighting a mirror rn",
     "checkForUpdates": true,
+    "additionalInfo": {
+      "chaptersLink": "https://lightnovelworld.org/novel/shadow-slave/chapters/?page=0"
+    },
     "chapters": [
       {
         "title": "Chapter 2502: Foundation of Health",
@@ -1014,10 +1017,7 @@
         "datePublished": "10/12/2025",
         "dateRead": "10/12/2025"
       }
-    ],
-    "additionalInfo": {
-      "chaptersLink": "https://lightnovelworld.org/novel/shadow-slave/chapters/?page=0"
-    }
+    ]
   },
   {
     "title": "Frieren: Beyond Journey's End",
@@ -1025,6 +1025,7 @@
     "homepageURL": "https://www.frieren.online/",
     "summary": "Frieren doing cool shit for serie i think",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -2133,6 +2134,7 @@
     "homepageURL": "https://www.royalroad.com/fiction/37951/re-monarch",
     "summary": "cairn gettting some demon ussy",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "1 & 2. Ignis I",
@@ -2821,6 +2823,7 @@
     "homepageURL": "https://www.royalroad.com/fiction/21220/mother-of-learning",
     "summary": "Pretty Good, time-loop story right here",
     "checkForUpdates": false,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "1. Good Morning Brother",
@@ -3593,6 +3596,7 @@
     "homepageURL": "https://demonicscans.org/manga/The-Demon-Prince-goes-to-the-Academy",
     "summary": "ends with that scene where mc tells ellen (hero) he is demon king and she laughs at his ass, and then they go on vacation",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 0",
@@ -4169,6 +4173,7 @@
     "homepageURL": "https://demonicscans.org/manga/The-Great-Mage-of-the-Hero%2527s-Party-Reincarnates",
     "summary": "scroll competition going on",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 0",
@@ -4920,6 +4925,7 @@
     "homepageURL": "https://demonicscans.org/manga/SSS%25252DClass-Suicide-Hunter",
     "summary": "goblin speak all the rage",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 0",
@@ -6105,6 +6111,7 @@
     "homepageURL": "https://demonicscans.org/manga/Player",
     "summary": "tournament for GOD",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -7843,6 +7850,7 @@
     "homepageURL": "https://demonicscans.org/manga/My-Little-Brother-Is-The-Academy%2527s-Hotshot",
     "summary": "dragon-kin are people too",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 0",
@@ -8803,7 +8811,10 @@
     "coverImage": "third_sons_rise.webp",
     "homepageURL": "https://genesistudio.com/novels/tsurp",
     "summary": "buddy is an ingrate",
-    "checkForUpdates": false,
+    "checkForUpdates": true,
+    "additionalInfo": {
+      "chaptersLink": "https://genesistudio.com/api/novels-chapter/58ba3fc6-86eb-462c-819b-feb3bf1d79ef"
+    },
     "chapters": [
       {
         "title": "Ch. 0: The King Is Dead And So Am I",
@@ -9152,8 +9163,8 @@
         "title": "Ch. 49: Meeting at the Grand Arbor Club (1)",
         "isRead": true,
         "url": "https://genesistudio.com/viewer/60340",
-        "datePublished": "7/12/2025",
-        "dateRead": "9/3/2025"
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
       }
     ]
   },
@@ -9162,7 +9173,10 @@
     "coverImage": "hypoguem.webp",
     "homepageURL": "https://genesistudio.com/novels/hi",
     "summary": "isekai with no cooking herasy",
-    "checkForUpdates": false,
+    "checkForUpdates": true,
+    "additionalInfo": {
+      "chaptersLink": "https://genesistudio.com/api/novels-chapter/2a6bd104-69eb-46c8-935c-ae2fe201e8ea"
+    },
     "chapters": [
       {
         "title": "Ch. 0: Prologue",
@@ -9406,8 +9420,8 @@
         "title": "Ch. 34: Birthplace of Emotion (3)",
         "isRead": true,
         "url": "https://genesistudio.com/viewer/60578",
-        "datePublished": "7/30/2025",
-        "dateRead": "9/2/2025"
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
       }
     ]
   },
@@ -9417,6 +9431,7 @@
     "homepageURL": "https://demonicscans.org/manga/The-Tutorial-is-Too-Hard",
     "summary": "just finished floor 35",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -11141,6 +11156,7 @@
     "homepageURL": "https://demonicscans.org/manga/Pick-Me-Up",
     "summary": "loki aura farming",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -12340,6 +12356,7 @@
     "homepageURL": "https://demonicscans.org/manga/The-Max%25252DLevel-Player%2527s-100th-Regression",
     "summary": "prophet or regressor who can tell the differece",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 0",
@@ -12881,6 +12898,7 @@
     "homepageURL": "https://demonicscans.org/manga/Regressor-Instruction-Manual",
     "summary": "they NAMED THE TITLE",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -14003,6 +14021,7 @@
     "homepageURL": "https://demonicscans.org/manga/Necromancer-Academy-and-the-Genius-Summoner",
     "summary": "back at school finally",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -15538,6 +15557,7 @@
     "homepageURL": "https://demonicscans.org/manga/I-Became-the-Tyrant-of-a-Defence-Game",
     "summary": "serene best girl",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -16583,6 +16603,7 @@
     "homepageURL": "https://demonicscans.org/manga/Dungeon-Odyssey",
     "summary": "on haitus I have no idea what is happening",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -17641,7 +17662,8 @@
     "coverImage": "ending_maker.webp",
     "homepageURL": "https://demonicscans.org/manga/Ending-Maker",
     "summary": "on haitus probably dead",
-    "checkForUpdates": true,
+    "checkForUpdates": false,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -18141,6 +18163,7 @@
     "homepageURL": "",
     "summary": "got to point where Hughes dropped Tyr (vampire) for being a yandere and was about to go on an adventure with Shae (regressor) and Azzy (Dog King)",
     "checkForUpdates": false,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 481",
@@ -18157,6 +18180,7 @@
     "homepageURL": "https://demonicscans.org/manga/The-strongest-assassin-gets-transferred-to-another-world-with-his-whole-class",
     "summary": "",
     "checkForUpdates": true,
+    "additionalInfo": {},
     "chapters": [
       {
         "title": "Chapter 1",
@@ -18913,6 +18937,165 @@
         "url": "https://demonicscans.org/chaptered.php?manga=11875&chapter=108",
         "datePublished": "10/2/2025",
         "dateRead": "10/12/2025"
+      }
+    ]
+  },
+  {
+    "title": "Memorize",
+    "coverImage": "memorize.jpeg",
+    "homepageURL": "https://genesistudio.com/novels/memorize",
+    "summary": "guy has gone back and hates angels",
+    "checkForUpdates": true,
+    "additionalInfo": {
+      "chaptersLink": "https://genesistudio.com/api/novels-chapter/cfd16ab4-15e8-4742-90c2-e101360d2bb3"
+    },
+    "chapters": [
+      {
+        "title": "Ch. 1: Chapter 1",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13268",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 2: Chapter 2",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13269",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 3: Chapter 3",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13270",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 4: Chapter 4",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13271",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 5: Chapter 5",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13272",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 6: Chapter 6",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13273",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 7: Chapter 7",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13274",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 8: Chapter 8",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13275",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 9: Chapter 9",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13276",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 10: Chapter 10",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13277",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 11: Chapter 11",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13278",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 12: Chapter 12",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13279",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 13: Chapter 13",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13280",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 14: Chapter 14",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13281",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 15: Chapter 15",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13282",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 16: Chapter 16",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13283",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 17: Chapter 17",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13284",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 18: Chapter 18",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13285",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 19: Chapter 19",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13286",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 20: Chapter 20",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13287",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
+      },
+      {
+        "title": "Ch. 21: Chapter 21",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13288",
+        "datePublished": "10/13/2025",
+        "dateRead": "10/13/2025"
       }
     ]
   }
