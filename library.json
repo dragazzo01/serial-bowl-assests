@@ -9210,10 +9210,10 @@
       },
       {
         "title": "Ch. 51: Meeting at the Grand Arbor Club (3)",
-        "isRead": false,
+        "isRead": true,
         "url": "https://genesistudio.com/viewer/60342",
         "datePublished": "10/15/2025",
-        "dateRead": null
+        "dateRead": "10/15/2025"
       }
     ]
   },
@@ -19197,10 +19197,10 @@
       },
       {
         "title": "Ch. 23: Chapter 23",
-        "isRead": false,
+        "isRead": true,
         "url": "https://genesistudio.com/viewer/13290",
         "datePublished": "10/15/2025",
-        "dateRead": null
+        "dateRead": "10/15/2025"
       }
     ]
   },
