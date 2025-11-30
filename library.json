@@ -1549,8 +1549,8 @@
     "title": "Frieren: Beyond Journey's End",
     "coverImage": "frieren.jpg",
     "homepageURL": "https://www.frieren.online/",
-    "summary": "Frieren doing cool shit for serie i think",
-    "checkForUpdates": true,
+    "summary": "Frieren doing cool shit for serie i think\n\nofficial website: https://www.viz.com/vizmanga/chapters/frieren-the-journeys-end",
+    "checkForUpdates": false,
     "status": "broken",
     "additionalInfo": {},
     "chapters": [
@@ -2652,6 +2652,27 @@
         "url": "https://www.frieren.online/manga/frieren-beyond-journeys-end-chapter-144/",
         "datePublished": "10/14/2025",
         "dateRead": "10/14/2025"
+      },
+      {
+        "title": "Chapter 145",
+        "isRead": true,
+        "url": null,
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
+      },
+      {
+        "title": "Chapter 146",
+        "isRead": true,
+        "url": null,
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
+      },
+      {
+        "title": "Chapter 147",
+        "isRead": true,
+        "url": null,
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
       }
     ]
   },
@@ -5552,6 +5573,13 @@
         "url": "https://demonicscans.org/chaptered.php?manga=12279&chapter=111",
         "datePublished": "11/22/2025",
         "dateRead": "11/23/2025"
+      },
+      {
+        "title": "Chapter 112",
+        "isRead": false,
+        "url": "https://demonicscans.org/chaptered.php?manga=12279&chapter=112",
+        "datePublished": "11/29/2025",
+        "dateRead": null
       }
     ]
   },
@@ -10011,9 +10039,30 @@
       },
       {
         "title": "Ch. 74: Seymour Neus (1)",
-        "isRead": false,
+        "isRead": true,
         "url": "https://genesistudio.com/viewer/60400",
         "datePublished": "11/25/2025",
+        "dateRead": "11/25/2025"
+      },
+      {
+        "title": "Ch. 75: Seymour Neus (2)",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/60401",
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
+      },
+      {
+        "title": "Ch. 76: The Demon County Consulate",
+        "isRead": false,
+        "url": "https://genesistudio.com/viewer/60460",
+        "datePublished": "11/30/2025",
+        "dateRead": null
+      },
+      {
+        "title": "Ch. 77: The Former Generals of the Fifth Army",
+        "isRead": false,
+        "url": "https://genesistudio.com/viewer/60461",
+        "datePublished": "11/30/2025",
         "dateRead": null
       }
     ]
@@ -12051,9 +12100,16 @@
       },
       {
         "title": "Chapter 245",
-        "isRead": false,
+        "isRead": true,
         "url": "https://demonicscans.org/chaptered.php?manga=756&chapter=245",
         "datePublished": "11/24/2025",
+        "dateRead": "11/25/2025"
+      },
+      {
+        "title": "Chapter 246",
+        "isRead": false,
+        "url": "https://demonicscans.org/chaptered.php?manga=756&chapter=246",
+        "datePublished": "11/30/2025",
         "dateRead": null
       }
     ]
@@ -13298,6 +13354,13 @@
         "url": "https://demonicscans.org/chaptered.php?manga=11699&chapter=176",
         "datePublished": "11/18/2025",
         "dateRead": "11/19/2025"
+      },
+      {
+        "title": "Chapter 177",
+        "isRead": true,
+        "url": "https://demonicscans.org/chaptered.php?manga=11699&chapter=177",
+        "datePublished": "11/25/2025",
+        "dateRead": "11/26/2025"
       }
     ]
   },
@@ -13872,10 +13935,10 @@
       },
       {
         "title": "Chapter 77",
-        "isRead": false,
+        "isRead": true,
         "url": "https://demonicscans.org/chaptered.php?manga=11883&chapter=77",
         "datePublished": "11/25/2025",
-        "dateRead": null
+        "dateRead": "11/25/2025"
       }
     ]
   },
@@ -15045,10 +15108,10 @@
       },
       {
         "title": "Chapter 164",
-        "isRead": false,
+        "isRead": true,
         "url": "https://demonicscans.org/chaptered.php?manga=11047&chapter=164",
         "datePublished": "11/26/2025",
-        "dateRead": null
+        "dateRead": "11/25/2025"
       }
     ]
   },
@@ -18764,6 +18827,13 @@
         "url": "https://demonicscans.org/chaptered.php?manga=12095&chapter=137",
         "datePublished": "11/21/2025",
         "dateRead": "11/22/2025"
+      },
+      {
+        "title": "Chapter 138",
+        "isRead": true,
+        "url": "https://demonicscans.org/chaptered.php?manga=12095&chapter=138",
+        "datePublished": "11/27/2025",
+        "dateRead": "11/28/2025"
       }
     ]
   },
@@ -20092,6 +20162,13 @@
         "url": "https://demonicscans.org/chaptered.php?manga=11875&chapter=114",
         "datePublished": "11/19/2025",
         "dateRead": "11/20/2025"
+      },
+      {
+        "title": "Chapter 115",
+        "isRead": true,
+        "url": "https://demonicscans.org/chaptered.php?manga=11875&chapter=115",
+        "datePublished": "11/27/2025",
+        "dateRead": "11/27/2025"
       }
     ]
   },
@@ -20423,9 +20500,30 @@
       },
       {
         "title": "Ch. 46: Chapter 46",
-        "isRead": false,
+        "isRead": true,
         "url": "https://genesistudio.com/viewer/13313",
         "datePublished": "11/25/2025",
+        "dateRead": "11/25/2025"
+      },
+      {
+        "title": "Ch. 47: Chapter 47",
+        "isRead": true,
+        "url": "https://genesistudio.com/viewer/13314",
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
+      },
+      {
+        "title": "Ch. 48: Chapter 48",
+        "isRead": false,
+        "url": "https://genesistudio.com/viewer/13315",
+        "datePublished": "11/30/2025",
+        "dateRead": null
+      },
+      {
+        "title": "Ch. 49: Chapter 49",
+        "isRead": false,
+        "url": "https://genesistudio.com/viewer/13316",
+        "datePublished": "11/30/2025",
         "dateRead": null
       }
     ]
@@ -25751,10 +25849,10 @@
       },
       {
         "title": "Ch. 112: Confusion and Conflicting Theories",
-        "isRead": false,
+        "isRead": true,
         "url": "https://mangadex.org/chapter/e7ba3a3b-2116-4a13-8c30-f9006936c325",
         "datePublished": "11/24/2025",
-        "dateRead": null
+        "dateRead": "11/25/2025"
       }
     ]
   },
@@ -26208,6 +26306,13 @@
         "url": "https://mangadex.org/chapter/8a13e0c1-db6b-491b-98aa-d21450f09680",
         "datePublished": "11/21/2025",
         "dateRead": "11/22/2025"
+      },
+      {
+        "title": "Ch. 422: Again Someday",
+        "isRead": true,
+        "url": "https://mangadex.org/chapter/a4a8905b-2852-4ea7-bacf-10f8490900be",
+        "datePublished": "11/27/2025",
+        "dateRead": "11/27/2025"
       }
     ]
   },
@@ -29739,10 +29844,10 @@
       },
       {
         "title": "Ch. 16: Why I Chose the Academy",
-        "isRead": false,
+        "isRead": true,
         "url": "https://mangadex.org/chapter/4f70f9b2-c604-4274-a2f6-4f1924fb5505",
         "datePublished": "11/24/2025",
-        "dateRead": null
+        "dateRead": "11/25/2025"
       }
     ]
   },
@@ -32936,6 +33041,13 @@
         "url": "https://mangadex.org/chapter/ca9cba20-77dc-4a10-a54a-b7d7a1a3eaa0",
         "datePublished": "11/8/2025",
         "dateRead": "11/10/2025"
+      },
+      {
+        "title": "Ch. 22.2",
+        "isRead": false,
+        "url": "https://mangadex.org/chapter/3d2a4eaa-e574-444d-b390-d8f7ee688bf6",
+        "datePublished": "11/29/2025",
+        "dateRead": null
       }
     ]
   },
@@ -33378,10 +33490,17 @@
       },
       {
         "title": "Ch. 68.1: The Dragon Lord's Meeting",
-        "isRead": false,
+        "isRead": true,
         "url": "https://mangadex.org/chapter/e9f03517-a0ac-4644-8973-cb3705068988",
         "datePublished": "11/25/2025",
-        "dateRead": null
+        "dateRead": "11/25/2025"
+      },
+      {
+        "title": "Ch. 68.2",
+        "isRead": true,
+        "url": "https://mangadex.org/chapter/bddda1c9-508d-4c65-90be-017938cb4d98",
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
       }
     ]
   },
@@ -34804,10 +34923,10 @@
       },
       {
         "title": "Ch. 15.2",
-        "isRead": false,
+        "isRead": true,
         "url": "https://mangadex.org/chapter/6b0d4324-b048-4f31-8c49-d074721bdc32",
         "datePublished": "11/25/2025",
-        "dateRead": null
+        "dateRead": "11/25/2025"
       }
     ]
   },
@@ -36521,17 +36640,24 @@
       },
       {
         "title": "Ch. 76.1",
-        "isRead": false,
+        "isRead": true,
         "url": "https://mangadex.org/chapter/cf2b40d3-38a0-4c1e-b292-a59cf3799a2e",
         "datePublished": "11/23/2025",
-        "dateRead": null
+        "dateRead": "11/25/2025"
       },
       {
         "title": "Ch. 76.2",
-        "isRead": false,
+        "isRead": true,
         "url": "https://mangadex.org/chapter/1e572743-66c3-4018-b7e5-feffa011857a",
         "datePublished": "11/23/2025",
-        "dateRead": null
+        "dateRead": "11/25/2025"
+      },
+      {
+        "title": "Ch. 77.1",
+        "isRead": true,
+        "url": "https://mangadex.org/chapter/7c9964a7-c6b7-4a0a-afd2-15c7f9f2eaf5",
+        "datePublished": "11/25/2025",
+        "dateRead": "11/26/2025"
       }
     ]
   },
@@ -37229,6 +37355,13 @@
         "url": "https://www.webtoons.com/en/fantasy/one-step-closer-to-the-demon-king/ep-99-ally-10/viewer?title_no=6064&episode_no=99",
         "datePublished": "11/20/2025",
         "dateRead": "11/21/2025"
+      },
+      {
+        "title": "Ep. 100 - Target (23)",
+        "isRead": true,
+        "url": "https://www.webtoons.com/en/fantasy/one-step-closer-to-the-demon-king/ep-100-target-23/viewer?title_no=6064&episode_no=100",
+        "datePublished": "11/27/2025",
+        "dateRead": "11/27/2025"
       }
     ]
   },
@@ -37345,6 +37478,13 @@
         "url": "https://www.webtoons.com/en/fantasy/mythic-item-obtained/s2-ep-63-secret-lab/viewer?title_no=4582&episode_no=147",
         "datePublished": "11/19/2025",
         "dateRead": "11/20/2025"
+      },
+      {
+        "title": "(S2) Ep. 64 - The Boy Who Longed to be a Hero (1)",
+        "isRead": true,
+        "url": "https://www.webtoons.com/en/fantasy/mythic-item-obtained/s2-ep-64-the-boy-who-longed-to-be-a-hero-1/viewer?title_no=4582&episode_no=148",
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
       }
     ]
   },
@@ -37461,6 +37601,13 @@
         "url": "https://www.webtoons.com/en/action/hero-killer/episode-238/viewer?title_no=2745&episode_no=238",
         "datePublished": "11/19/2025",
         "dateRead": "11/20/2025"
+      },
+      {
+        "title": "Episode 239",
+        "isRead": true,
+        "url": "https://www.webtoons.com/en/action/hero-killer/episode-239/viewer?title_no=2745&episode_no=239",
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
       }
     ]
   },
@@ -37577,6 +37724,13 @@
         "url": "https://www.webtoons.com/en/super-hero/unordinary/episode-363/viewer?title_no=679&episode_no=382",
         "datePublished": "11/19/2025",
         "dateRead": "11/20/2025"
+      },
+      {
+        "title": "Episode 364",
+        "isRead": true,
+        "url": "https://www.webtoons.com/en/super-hero/unordinary/episode-364/viewer?title_no=679&episode_no=383",
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
       }
     ]
   },
@@ -37721,6 +37875,13 @@
         "url": "https://www.webtoons.com/en/fantasy/the-greatest-estate-developer/episode-202/viewer?title_no=3596&episode_no=204",
         "datePublished": "11/19/2025",
         "dateRead": "11/20/2025"
+      },
+      {
+        "title": "Episode 203",
+        "isRead": true,
+        "url": "https://www.webtoons.com/en/fantasy/the-greatest-estate-developer/episode-203/viewer?title_no=3596&episode_no=205",
+        "datePublished": "11/26/2025",
+        "dateRead": "11/26/2025"
       }
     ]
   },
@@ -37843,6 +38004,13 @@
         "url": "https://demonicscans.org/chaptered.php?manga=13528&chapter=10",
         "datePublished": "11/19/2025",
         "dateRead": "11/22/2025"
+      },
+      {
+        "title": "Chapter 11",
+        "isRead": false,
+        "url": "https://demonicscans.org/chaptered.php?manga=13528&chapter=11",
+        "datePublished": "11/27/2025",
+        "dateRead": null
       }
     ]
   }
